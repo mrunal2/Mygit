@@ -2,7 +2,7 @@ this is my complete java application
 
 class Hellogit
 {
-puiblic static void main(String args[]){
+public static void main(String args[]){
 
 sysout("welcome to git");
 }
