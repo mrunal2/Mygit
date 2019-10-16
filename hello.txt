@@ -4,12 +4,12 @@ class Hellogit
 {
 
 
-void mymethod(){
+static void mymethod(){
 sysout("this is mymethod");
 }
 public static void main(String args[]){
 
-
+mymethd();
 System.out.println(" welcome to git without conflit");
 
 }
