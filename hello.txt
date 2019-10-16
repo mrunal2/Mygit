@@ -2,6 +2,11 @@ this is my complete java application
 
 class Hellogit
 {
+
+
+void mymethod(){
+sysout("this is mymethod");
+}
 public static void main(String args[]){
 
 
