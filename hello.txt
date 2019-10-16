@@ -4,8 +4,8 @@ class Hellogit
 {
 
 
-static String mymethod(){
-return "this is mymethod";
+public static void mymethod(String str){
+return str;
 }
 public static void main(String args[]){
 
